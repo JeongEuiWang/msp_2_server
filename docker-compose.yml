@@ -34,7 +34,6 @@ services:
       - 8000:8000
     networks:
       - backnet
-      - frontnet
     depends_on:
       db:
         condition: service_healthy
@@ -44,4 +43,3 @@ volumes:
 
 networks:
   backnet:
-  frontnet:
