@@ -1,0 +1,36 @@
+# 마이그레이션
+
+이 디렉토리에는 Alembic을 사용한 데이터베이스 마이그레이션 스크립트가 포함되어 있습니다.
+
+## 주요 명령어
+
+마이그레이션 생성:
+```
+alembic revision --autogenerate -m "마이그레이션 설명"
+```
+
+마이그레이션 적용:
+```
+alembic upgrade head
+```
+
+이전 버전으로 롤백:
+```
+alembic downgrade -1
+```
+
+특정 버전으로 롤백:
+```
+alembic downgrade <revision>
+```
+
+현재 상태 확인:
+```
+alembic current
+```
+
+## 마이그레이션 이력 확인
+
+```
+alembic history
+``` 

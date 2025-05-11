@@ -1,0 +1,338 @@
+[
+  {
+    "title": "테크가 바꾸는 엔터산업 지형도",
+    "organizer": "모두의연구소",
+    "month": 4,
+    "registration_period": "04. 24(목) ~ 04. 28(월)",
+    "link": "https://modulabs.co.kr/community/momos/208",
+    "category_json": ["온라인(서울 강남)", "무료", "기술일반"]
+  },
+  {
+    "title": "표준프레임워크 신규버전 v4.3 검색 기능에 활용된 AWS OpenSearch 알아보기",
+    "organizer": "표준프레임워크",
+    "month": 4,
+    "registration_period": "04. 25(금) ~ 04. 28(월)",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSemCGKQ7EZpOvAVlq-VyYuF2cdGDlpQwXQNYCQgMW7mBFD8OA/viewform",
+    "category_json": ["온라인", "무료", "기술일반"]
+  },
+  {
+    "title": "한입 런치박스 점심 세미나",
+    "organizer": "유데미",
+    "month": 4,
+    "registration_period": "04. 28(월) 12:00 ~ 13:00",
+    "link": "https://www.youtube.com/watch?v=JhfC_QeFQ7s",
+    "category_json": ["온라인", "무료", "기술일반"]
+  },
+  {
+    "title": "맞다AI가 4월 밋업: GitHub Copilot 어디까지 되는 거예요?",
+    "organizer": "맞다AI가",
+    "month": 4,
+    "registration_period": "04. 06(일) ~ 04. 29(화)",
+    "link": "https://event-us.kr/matdaaiga/event/101738",
+    "category_json": ["오프라인(대구 중구)", "무료", "AI"]
+  },
+  {
+    "title": "Microsoft 무료 테크 웨비나 - Copilot Studio로 맞춤형 AI Agent 구축하기",
+    "organizer": "한국글로벌널리지",
+    "month": 4,
+    "registration_period": "04. 08(화) ~ 04. 29(화)",
+    "link": "https://event-us.kr/gknedu/event/102124",
+    "category_json": ["온라인", "무료", "교육", "AI"]
+  },
+  {
+    "title": "KT CLOUD: SUMMIT 2025",
+    "organizer": "KT CLOUD",
+    "month": 4,
+    "registration_period": "04. 15(화) ~ 04. 29(화)",
+    "link": "https://summit.ktcloud.com/",
+    "category_json": ["온라인", "오프라인(서울 강남)", "무료", "클라우드"]
+  },
+  {
+    "title": "AWSKRUG 플랫폼엔지니어링 모임",
+    "organizer": "AWSKRUG",
+    "month": 4,
+    "registration_period": "04. 17(목) ~ 04. 29(화)",
+    "link": "https://www.meetup.com/awskrug/events/307319323/",
+    "category_json": ["오프라인(서울 강남)", "무료", "클라우드"]
+  },
+  {
+    "title": "[사전 신청] 퇴근 후 2시간으로 완성하는 AI/LLM 서비스 개발 과정",
+    "organizer": "모두의 연구소",
+    "month": 4,
+    "registration_period": "04. 03(목) ~ 04. 30(수)",
+    "link": "https://llm.modulabs.co.kr/",
+    "category_json": ["오프라인(서울 종로)", "무료", "교육", "AI"]
+  },
+  {
+    "title": "원티드 스터디 호스트 신청서",
+    "organizer": "원티드",
+    "month": 4,
+    "registration_period": "04. 14(월) ~ 04. 30(수)",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfTwaA6mnfGiVQOZFSvAcyjR745AN5x9aaMEtfLp0RXQHiKWg/viewform",
+    "category_json": ["온라인", "무료", "모임"]
+  },
+  {
+    "title": "[데브클럽] 수료생과 온라인 커피챗",
+    "organizer": "f lab",
+    "month": 4,
+    "registration_period": "04. 15(화) ~ 04. 30(수)",
+    "link": "https://f-lab.notion.site/1c1b4a3c45f180fd9691ce239b4f200c",
+    "category_json": ["온라인", "무료", "커리어"]
+  },
+  {
+    "title": "AWSKRUG #AIEngineering - MCP on AWS",
+    "organizer": "AWSKRUG",
+    "month": 5,
+    "registration_period": "04. 16(수) ~ 05. 06(화)",
+    "link": "https://www.meetup.com/awskrug/events/307266851/",
+    "category_json": ["오프라인(서울 강남)", "유료", "AI"]
+  },
+  {
+    "title": "2-4년차 백엔드를 위한 CQRS 패턴과 실시간 데이터 처리",
+    "organizer": "원티드",
+    "month": 5,
+    "registration_period": "04. 17(목) ~ 05. 06(화)",
+    "link": "https://www.wanted.co.kr/events/pre_challenge_be_31",
+    "category_json": ["온라인", "무료", "벡엔드"]
+  },
+  {
+    "title": "2-4년차 데이터분석가를 위한 인사이트를 전달하는 대시보드 전략",
+    "organizer": "원티드",
+    "month": 5,
+    "registration_period": "04. 17(목) ~ 05. 06(화)",
+    "link": "https://www.wanted.co.kr/events/pre_challenge_data_6",
+    "category_json": ["온라인", "무료", "데이터"]
+  },
+  {
+    "title": "2-4년차 프론트엔드를 위한 이직 챌린지",
+    "organizer": "원티드",
+    "month": 5,
+    "registration_period": "04. 17(목) ~ 05. 06(화)",
+    "link": "https://www.wanted.co.kr/events/pre_challenge_fe_33",
+    "category_json": ["온라인", "무료", "프론트엔드"]
+  },
+  {
+    "title": "프리온보딩 | 2-4년차 데이터분석가를 위한 인사이트를 전달하는 대시보드 전략",
+    "organizer": "원티드",
+    "month": 5,
+    "registration_period": "04. 16(수) ~ 05. 06(화)",
+    "link": "https://www.wanted.co.kr/events/pre_challenge_data_6",
+    "category_json": ["온라인", "무료", "데이터"]
+  },
+  {
+    "title": "프리온보딩 | 2-4년차 백엔드를 위한 CQRS 패턴과 실시간 데이터 처리",
+    "organizer": "원티드",
+    "month": 5,
+    "registration_period": "04. 16(수) ~ 05. 06(화)",
+    "link": "https://www.wanted.co.kr/events/pre_challenge_data_6",
+    "category_json": ["온라인", "무료", "벡엔드"]
+  },
+  {
+    "title": "프리온보딩 | 2-4년차 프론트엔드를 위한 이직 챌린지",
+    "organizer": "원티드",
+    "month": 5,
+    "registration_period": "04. 16(수) ~ 05. 06(화)",
+    "link": "https://www.wanted.co.kr/events/pre_challenge_fe_33",
+    "category_json": ["온라인", "무료", "프론트엔드"]
+  },
+  {
+    "title": "2025 관광데이터 활용 공모전",
+    "organizer": "한국관광공사",
+    "month": 5,
+    "registration_period": "04. 03(목) ~ 05. 07(수)",
+    "link": "https://www.2025tourapi.com/",
+    "category_json": ["온라인", "무료", "데이터", "대회"]
+  },
+  {
+    "title": "실무자가 들려주는 취업 및 역량강화(이직) 세미나",
+    "organizer": "코리아IT아카데미",
+    "month": 5,
+    "registration_period": "04. 28(월) ~ 05. 08(목)",
+    "link": "http://koreaitsecurity.co.kr/community/seminar_view.asp?seq=430&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=OLD",
+    "category_json": ["오프라인(서울 강남)", "무료", "커리어"]
+  },
+  {
+    "title": "2025년 FIN:NECT 챌린지 캠페인 참가자 모집",
+    "organizer": "한국핀테크지원센터",
+    "month": 5,
+    "registration_period": "03. 10(월) ~ 05. 09(금)",
+    "link": "https://eopla.net/magazines/27186",
+    "category_json": ["온라인", "무료", "기술일반", "대회"]
+  },
+  {
+    "title": "제21회 차세대 테크 리더십포럼 - \"반도체 패러다임의 변화, AI와 공존하는 미래\"",
+    "organizer": "차세대 테크 리더십포럼",
+    "month": 5,
+    "registration_period": "04. 18(금) ~ 05. 09(금)",
+    "link": "https://event-us.kr/naekyehs/event/102286",
+    "category_json": ["오프라인(서울 성동구)", "무료", "기술일반", "AI"]
+  },
+  {
+    "title": "[AWS Korea X Codetree] 절대포기못하는 코딩 기초 챌린지",
+    "organizer": "Codetree, Powered by AWS Korea",
+    "month": 5,
+    "registration_period": "04. 07(월) ~ 05. 11(일)",
+    "link": "https://camp.codetree.ai/ko?utm_source=github&utm_medium=devevent&utm_campaign=ct101",
+    "category_json": ["온라인", "무료", "대회"]
+  },
+  {
+    "title": "DND 해커톤 :: 퍼즐처럼 맞춰가는 1박 2일의 즐거움!",
+    "organizer": "DND",
+    "month": 5,
+    "registration_period": "04. 23(수) ~ 05. 11(일)",
+    "link": "https://event-us.kr/dndacademy/event/101920",
+    "category_json": ["오프라인(서울 마포구)", "유료", "대회"]
+  },
+  {
+    "title": "스크래퍼 개발자 모임 2회",
+    "organizer": "스크래퍼 개발자 모임",
+    "month": 5,
+    "registration_period": "04. 20(일) ~ 05. 12(월)",
+    "link": "https://event-us.kr/m/102616/34245",
+    "category_json": ["오프라인(서울 강남)", "유료", "기술일반"]
+  },
+  {
+    "title": "개발자를 위한 고급 프롬프트 엔지니어링",
+    "organizer": "모두의 연구소",
+    "month": 5,
+    "registration_period": "04. 03(목) ~ 05. 14(수)",
+    "link": "https://biz.modulabs.co.kr/event/235",
+    "category_json": ["오프라인(서울 강남)", "무료", "AI"]
+  },
+  {
+    "title": "제4회 고용노동 공공데이터 활용 공모전",
+    "organizer": "고용노동부",
+    "month": 5,
+    "registration_period": "03. 11(화) ~ 05. 15(목)",
+    "link": "https://www.2025datacontest.co.kr/",
+    "category_json": ["온라인", "무료", "대회", "데이터"]
+  },
+  {
+    "title": "2025 지식재산 데이터 활용 창업 경진대회",
+    "organizer": "특허청",
+    "month": 5,
+    "registration_period": "04. 18(금) ~ 05. 15(목)",
+    "link": "https://plus.kipris.or.kr/portal/main/contents.do?menuNo=210180",
+    "category_json": ["온라인", "무료", "대회", "데이터"]
+  },
+  {
+    "title": "2025 백엔드 개발 트렌드 핵심",
+    "organizer": "코리아IT아카데미",
+    "month": 5,
+    "registration_period": "04. 18(금) ~ 05. 15(목)",
+    "link": "http://daegu-koreaitlab.com/community/seminar_view.asp?seq=10&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=NEW",
+    "category_json": ["오프라인(대구)", "무료", "교육"]
+  },
+  {
+    "title": "ACPC(AWS x Codetree 프로그래밍 경진대회)",
+    "organizer": "Codetree",
+    "month": 5,
+    "registration_period": "04. 21(월) ~ 05. 16(금)",
+    "link": "https://www.codetree.ai/ko/events/acpc",
+    "category_json": ["오프라인(대구)", "무료", "대회"]
+  },
+  {
+    "title": "Microsoft Build 2025",
+    "organizer": "Microsoft",
+    "month": 5,
+    "registration_period": "02. 05(수) ~ 05. 19(월)",
+    "link": "https://build.microsoft.com/en-US/home",
+    "category_json": ["온라인", "무료", "기술일반"]
+  },
+  {
+    "title": "AI 시대를 살아가는 사람들의 이야기",
+    "organizer": "원티드",
+    "month": 5,
+    "registration_period": "03. 18(화) ~ 05. 19(월)",
+    "link": "https://event.wanted.co.kr/highfive2025",
+    "category_json": ["오프라인(서울 강남)", "무료", "AI"]
+  },
+  {
+    "title": "Google I/O 2025",
+    "organizer": "Google",
+    "month": 5,
+    "registration_period": "02. 11(화) ~ 05. 20(화)",
+    "link": "https://events.google.com/io/",
+    "category_json": ["온라인", "무료", "기술일반"]
+  },
+  {
+    "title": "2025 현대오토에버 배리어프리 앱개발 콘테스트",
+    "organizer": "그린라이트",
+    "month": 5,
+    "registration_period": "04. 21(월) ~ 05. 21(수)",
+    "link": "https://www.autoeverapp.kr/",
+    "category_json": ["오프라인", "무료", "대회"]
+  },
+  {
+    "title": "2025년 식의약 공공데이터 분석 활용경진대회",
+    "organizer": "식품의약품안전처",
+    "month": 5,
+    "registration_period": "04. 01(화) ~ 05. 30(금)",
+    "link": "https://data.mfds.go.kr/",
+    "category_json": ["온라인", "무료", "데이터"]
+  },
+  {
+    "title": "기업 성공 확률 예측 해커톤: 미래의 성공기업을 발굴하라!",
+    "organizer": "DACON",
+    "month": 5,
+    "registration_period": "04. 01(화) ~ 05. 30(금)",
+    "link": "https://dacon.io/competitions/official/236475/overview/description",
+    "category_json": ["온라인", "무료", "대회", "데이터"]
+  },
+  {
+    "title": "구글 클라우드 AI 스터디잼5",
+    "organizer": "Google",
+    "month": 6,
+    "registration_period": "03. 07(금) ~ 06. 08(일)",
+    "link": "https://sites.google.com/view/2025-study-jams/h1-ai-study-jam",
+    "category_json": ["온라인", "무료", "AI"]
+  },
+  {
+    "title": "2025년 FIN:NECT 챌린지 참가자 모집",
+    "organizer": "한국핀테크지원센터",
+    "month": 6,
+    "registration_period": "04. 23(수) ~ 06. 08(일)",
+    "link": "https://fintech.or.kr/web/board/boardContentsView.do?board_id=3&contents_id=2cce7704b5d44c9daf3e6dd5091c1349",
+    "category_json": ["오프라인", "무료", "대회"]
+  },
+  {
+    "title": "부스트캠프 웹·모바일 10기",
+    "organizer": "네이버 커넥트재단",
+    "month": 6,
+    "registration_period": "05. 26(월) ~ 06. 09(월) 11:00",
+    "link": "https://boostcamp.connect.or.kr/main_wm.html",
+    "category_json": ["오프라인", "무료", "교육"]
+  },
+  {
+    "title": "QA Korea Conference",
+    "organizer": "QA Korea",
+    "month": 7,
+    "registration_period": "07. 05(토)",
+    "link": "https://www.qa-korea.com/qaconference2025",
+    "category_json": ["오프라인(서울 강남)", "무료", "기술일반", "QA"]
+  },
+  {
+    "title": "PyCon Korea 2025",
+    "organizer": "파이콘",
+    "month": 8,
+    "registration_period": "08. 15(금) ~ 08. 17(일)",
+    "link": "https://2025.pycon.kr/",
+    "category_json": ["오프라인(동국대)", "무료", "기술일반"]
+  },
+  {
+    "title": "개방형 클라우드 플랫폼(K-PaaS) 활용 공모전",
+    "organizer": "K-PasaS",
+    "month": 10,
+    "registration_period": "03. 24(월) ~ 10. 31(금)",
+    "link": "https://contest.k-paas.org/",
+    "category_json": ["온라인", "무료", "클라우드", "대회"]
+  },
+  {
+    "title": "네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다",
+    "organizer": "네이버 클라우드",
+    "month": 12,
+    "registration_period": "03. 31(월) ~ 12. 31(수)",
+    "link": "https://blog.naver.com/n_cloudplatform/223811699537",
+    "category_json": ["온라인", "무료", "클라우드"]
+  }
+]
